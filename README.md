@@ -23,7 +23,7 @@ Como Executar este Projeto na AWS
 Para replicar esta infraestrutura na sua conta AWS, siga os passos abaixo:
 
 1. Aceder ao Console: Faça login na Console de Gerenciamento da AWS e selecione a região pretendida (ex: us-east-1).
-2. Aceder ao CloudFormation: Na barra de pesquisa, procure por **CloudFormation**.
+2. Aceder ao CloudFormation: Na barra de pesquisa, procure por CloudFormation.
 3. Criar uma Nova Pilha (Stack):
    - Clique em Create stack > *With new resources (standard).
    - Em Prepare template, selecione **Template is ready.
